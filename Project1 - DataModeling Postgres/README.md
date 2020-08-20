@@ -29,7 +29,7 @@ log_data/2018/11/2018-11-13-events.json
 ``
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like
-![Example]https://video.udacity-data.com/topher/2019/February/5c6c15e9_log-data/log-data.png
+![Example](https://video.udacity-data.com/topher/2019/February/5c6c15e9_log-data/log-data.png)
 
 If you would like to look at the JSON data within log_data files, you will need to create a pandas dataframe to read the data. Remember to first import JSON and pandas libraries.
 ``
